@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kittydex/static/css/main.b25c0e60.chunk.css",
+    "main.js": "/kittydex/static/js/main.3e6d4665.chunk.js",
+    "main.js.map": "/kittydex/static/js/main.3e6d4665.chunk.js.map",
+    "runtime-main.js": "/kittydex/static/js/runtime-main.580d0495.js",
+    "runtime-main.js.map": "/kittydex/static/js/runtime-main.580d0495.js.map",
+    "static/js/2.9c44d1e8.chunk.js": "/kittydex/static/js/2.9c44d1e8.chunk.js",
+    "static/js/2.9c44d1e8.chunk.js.map": "/kittydex/static/js/2.9c44d1e8.chunk.js.map",
+    "static/js/3.57632d9a.chunk.js": "/kittydex/static/js/3.57632d9a.chunk.js",
+    "static/js/3.57632d9a.chunk.js.map": "/kittydex/static/js/3.57632d9a.chunk.js.map",
+    "index.html": "/kittydex/index.html",
+    "static/css/main.b25c0e60.chunk.css.map": "/kittydex/static/css/main.b25c0e60.chunk.css.map",
+    "static/js/2.9c44d1e8.chunk.js.LICENSE.txt": "/kittydex/static/js/2.9c44d1e8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kittydex/static/media/bg.bb2fd555.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580d0495.js",
+    "static/js/2.9c44d1e8.chunk.js",
+    "static/css/main.b25c0e60.chunk.css",
+    "static/js/main.3e6d4665.chunk.js"
+  ]
+}
